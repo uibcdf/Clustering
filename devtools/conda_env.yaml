@@ -1,0 +1,14 @@
+channels:
+  - uibcdf
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - numpy
+  - matplotlib
+  - scipy
+  - kneed
+  - pandas
+  - seaborn
+  - scikit-learn
